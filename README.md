@@ -2,6 +2,8 @@
 
 This Node.js tool helps you migrate records from one Salesforce instance to another. The tool uses a set of configuration files to manage the migration process and offers various features to ensure a smooth data transfer.
 
+<iframe src="https://screenpal.com/embed/c0eZ06V4WLJ" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ## Configuration
 
 ### 1. GeneralConfig.json
