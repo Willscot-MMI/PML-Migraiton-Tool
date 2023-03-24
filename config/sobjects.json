@@ -1,0 +1,20 @@
+[
+    "FSL__Scheduling_Policy__c",
+    "FSL__Service_Goal__c",
+    "FSL__Work_Rule__c",
+    "OperatingHours",
+    "ServiceResource",
+    "Skill",
+    "WorkType",
+    "SkillRequirement",
+    "TimeSlot",
+    "ServiceAppointment",
+    "AssignedResource",
+    "ServiceTerritory",
+    "ZipCode__c",
+    "Branch__c",
+    "ServiceTerritoryMember",
+    "Product2",
+    "WorkOrder",
+    "WorkOrderLineItem"
+]

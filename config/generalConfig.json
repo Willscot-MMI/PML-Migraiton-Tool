@@ -1,0 +1,5 @@
+{
+    "defaultExternalId" : "External_Id__c",
+    "sourceEnviroment": "ProductionFusion",
+    "targetEnviroment": "Neuraflash"
+}

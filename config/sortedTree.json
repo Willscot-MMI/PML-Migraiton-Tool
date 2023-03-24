@@ -1,0 +1,401 @@
+[
+  {
+    "name": "FSL__Scheduling_Policy__c",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "FSL__Service_Goal__c",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "FSL__Work_Rule__c",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "OperatingHours",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "ServiceResource",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "Skill",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "WorkType",
+    "children": [],
+    "circular": false,
+    "childCount": 0
+  },
+  {
+    "name": "SkillRequirement",
+    "children": [
+      {
+        "name": "Skill",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": false,
+    "childCount": 1
+  },
+  {
+    "name": "TimeSlot",
+    "children": [
+      {
+        "name": "OperatingHours",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": false,
+    "childCount": 1
+  },
+  {
+    "name": "AssignedResource",
+    "children": [
+      {
+        "name": "ServiceAppointment",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ServiceResource",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 2
+  },
+  {
+    "name": "Branch__c",
+    "children": [
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ZipCode__c",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 2
+  },
+  {
+    "name": "ServiceTerritory",
+    "children": [
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "OperatingHours",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 3
+  },
+  {
+    "name": "ServiceTerritoryMember",
+    "children": [
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ServiceResource",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "OperatingHours",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 3
+  },
+  {
+    "name": "Product2",
+    "children": [
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkType",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 6
+  },
+  {
+    "name": "ZipCode__c",
+    "children": [
+      {
+        "name": "Branch__c",
+        "children": [
+          {
+            "name": "ServiceTerritory",
+            "circular": true,
+            "childCount": 0,
+            "children": []
+          }
+        ],
+        "circular": false,
+        "childCount": 1
+      },
+      {
+        "name": "Branch__c",
+        "children": [
+          {
+            "name": "ServiceTerritory",
+            "circular": true,
+            "childCount": 0,
+            "children": []
+          }
+        ],
+        "circular": false,
+        "childCount": 1
+      },
+      {
+        "name": "Branch__c",
+        "children": [
+          {
+            "name": "ServiceTerritory",
+            "circular": true,
+            "childCount": 0,
+            "children": []
+          }
+        ],
+        "circular": false,
+        "childCount": 1
+      }
+    ],
+    "circular": false,
+    "childCount": 6
+  },
+  {
+    "name": "ServiceAppointment",
+    "children": [
+      {
+        "name": "WorkType",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ServiceAppointment",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "ServiceAppointment",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "FSL__Scheduling_Policy__c",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "ServiceResource",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "WorkOrder",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      }
+    ],
+    "circular": true,
+    "childCount": 7
+  },
+  {
+    "name": "WorkOrderLineItem",
+    "children": [
+      {
+        "name": "WorkOrder",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkOrderLineItem",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "Product2",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkOrderLineItem",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkType",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "OperatingHours",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      }
+    ],
+    "circular": true,
+    "childCount": 7
+  },
+  {
+    "name": "WorkOrder",
+    "children": [
+      {
+        "name": "WorkOrder",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkOrder",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "WorkType",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "ServiceTerritory",
+        "circular": true,
+        "childCount": 0,
+        "children": []
+      },
+      {
+        "name": "OperatingHours",
+        "children": [],
+        "circular": false,
+        "childCount": 0
+      },
+      {
+        "name": "Branch__c",
+        "children": [
+          {
+            "name": "ServiceTerritory",
+            "circular": true,
+            "childCount": 0,
+            "children": []
+          },
+          {
+            "name": "ZipCode__c",
+            "children": [],
+            "circular": false,
+            "childCount": 0
+          }
+        ],
+        "circular": false,
+        "childCount": 2
+      }
+    ],
+    "circular": true,
+    "childCount": 8
+  }
+]

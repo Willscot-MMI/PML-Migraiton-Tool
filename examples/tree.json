@@ -1,0 +1,1811 @@
+[
+  {
+    "name": "AnyGoal__Goal_Definition__c",
+    "children": [
+      {
+        "name": "AnyGoal__Highlight_Result__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "AnyGoal__Highlight_Result__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Dodge_Stage__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Essential_Costs__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Insurance_Values__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Legacy_Invoice_Line_Items__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Managed_Services_Costs__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "OperatingHours",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Pricebook2",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "PricebookEntry",
+    "children": [
+      {
+        "name": "Pricebook2",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "Problem_Type__c",
+    "children": [
+      {
+        "name": "WorkType",
+        "children": [
+          {
+            "name": "ServiceReportLayout",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "Product2",
+    "children": [
+      {
+        "name": "Product2",
+        "circular": true
+      },
+      {
+        "name": "Product2",
+        "circular": true
+      },
+      {
+        "name": "Product2",
+        "circular": true
+      },
+      {
+        "name": "Product2",
+        "circular": true
+      },
+      {
+        "name": "Product2",
+        "circular": true
+      },
+      {
+        "name": "WorkType",
+        "children": [
+          {
+            "name": "ServiceReportLayout",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ColumnMetadata__c",
+    "children": [
+      {
+        "name": "SBQQ__FieldSetMetadata__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ConfigurationAttribute__c",
+    "children": [
+      {
+        "name": "SBQQ__ProductFeature__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ConfigurationRule__c",
+    "children": [
+      {
+        "name": "SBQQ__ProductRule__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ProductFeature__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__Cost__c",
+    "children": [
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__CustomActionCondition__c",
+    "children": [
+      {
+        "name": "SBQQ__CustomAction__c",
+        "children": [
+          {
+            "name": "SBQQ__CustomAction__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__CustomAction__c",
+    "children": [
+      {
+        "name": "SBQQ__CustomAction__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__CustomScript__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ErrorCondition__c",
+    "children": [
+      {
+        "name": "SBQQ__ProductRule__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "children": [
+          {
+            "name": "SBQQ__SummaryVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "children": [
+          {
+            "name": "SBQQ__SummaryVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__FavoriteProduct__c",
+    "children": [
+      {
+        "name": "SBQQ__Favorite__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ProductOption__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__ProductFeature__c",
+            "children": [
+              {
+                "name": "Product2",
+                "children": [
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "WorkType",
+                    "children": [
+                      {
+                        "name": "ServiceReportLayout",
+                        "children": [],
+                        "circular": false
+                      }
+                    ],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__ProductOption__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__FavoriteProduct__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__FavoriteShare__c",
+    "children": [
+      {
+        "name": "SBQQ__Favorite__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__Favorite__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__FieldSetMetadata__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__InstallProcessorLog__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__LineColumn__c",
+    "children": [
+      {
+        "name": "SBQQ__QuoteTemplate__c",
+        "children": [
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__TemplateSection__c",
+        "children": [
+          {
+            "name": "SBQQ__QuoteTemplate__c",
+            "children": [
+              {
+                "name": "SBQQ__TemplateContent__c",
+                "children": [],
+                "circular": false
+              },
+              {
+                "name": "SBQQ__TemplateContent__c",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__LookupData__c",
+    "children": [
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__LookupQuery__c",
+    "children": [
+      {
+        "name": "SBQQ__PriceRule__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ProductRule__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ConfigurationAttribute__c",
+        "children": [
+          {
+            "name": "SBQQ__ProductFeature__c",
+            "children": [
+              {
+                "name": "Product2",
+                "children": [
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "Product2",
+                    "circular": true
+                  },
+                  {
+                    "name": "WorkType",
+                    "children": [
+                      {
+                        "name": "ServiceReportLayout",
+                        "children": [],
+                        "circular": false
+                      }
+                    ],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__PriceAction__c",
+    "children": [
+      {
+        "name": "SBQQ__PriceRule__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "children": [
+          {
+            "name": "SBQQ__SummaryVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__PriceCondition__c",
+    "children": [
+      {
+        "name": "SBQQ__PriceRule__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "children": [
+          {
+            "name": "SBQQ__SummaryVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "children": [
+          {
+            "name": "SBQQ__SummaryVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__PriceRule__c",
+    "children": [
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ProductAction__c",
+    "children": [
+      {
+        "name": "SBQQ__ProductRule__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ProductFeature__c",
+    "children": [
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ProductOption__c",
+    "children": [
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ProductFeature__c",
+        "children": [
+          {
+            "name": "Product2",
+            "children": [
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "Product2",
+                "circular": true
+              },
+              {
+                "name": "WorkType",
+                "children": [
+                  {
+                    "name": "ServiceReportLayout",
+                    "children": [],
+                    "circular": false
+                  }
+                ],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "Product2",
+        "children": [
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "Product2",
+            "circular": true
+          },
+          {
+            "name": "WorkType",
+            "children": [
+              {
+                "name": "ServiceReportLayout",
+                "children": [],
+                "circular": false
+              }
+            ],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__ProductOption__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__ProductRule__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__QuoteDocument__c",
+    "children": [
+      {
+        "name": "SBQQ__QuoteTemplate__c",
+        "children": [
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__QuoteLineGroup__c",
+    "children": [
+      {
+        "name": "SBQQ__Favorite__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__QuoteLineGroup__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__QuoteTemplate__c",
+    "children": [
+      {
+        "name": "SBQQ__TemplateContent__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__TemplateContent__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__QuoteTerm__c",
+    "children": [
+      {
+        "name": "SBQQ__QuoteTerm__c",
+        "circular": true
+      },
+      {
+        "name": "SBQQ__QuoteTerm__c",
+        "circular": true
+      },
+      {
+        "name": "SBQQ__TemplateContent__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__RecordJob__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__SearchFilter__c",
+    "children": [
+      {
+        "name": "SBQQ__CustomAction__c",
+        "children": [
+          {
+            "name": "SBQQ__CustomAction__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__SummaryVariable__c",
+    "children": [
+      {
+        "name": "SBQQ__SummaryVariable__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__TemplateContent__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "SBQQ__TemplateSection__c",
+    "children": [
+      {
+        "name": "SBQQ__QuoteTemplate__c",
+        "children": [
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "SBQQ__TemplateContent__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "SBQQ__TemplateContent__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "ServiceReportLayout",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Skill",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Tax_PPE_Licensing_Credit__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "Trailer_Costs__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "WorkType",
+    "children": [
+      {
+        "name": "ServiceReportLayout",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__Document__c",
+    "children": [
+      {
+        "name": "dfsle__Envelope__c",
+        "children": [
+          {
+            "name": "dfsle__EnvelopeConfiguration__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "dfsle__Document__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__EnvelopeConfigurationDocument__c",
+    "children": [
+      {
+        "name": "dfsle__EnvelopeConfiguration__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__EnvelopeConfigurationRecipient__c",
+    "children": [
+      {
+        "name": "dfsle__EnvelopeConfiguration__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__EnvelopeConfiguration__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "dfsle__EnvelopeStatus__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "dfsle__Envelope__c",
+    "children": [
+      {
+        "name": "dfsle__EnvelopeConfiguration__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__RecipientStatus__c",
+    "children": [
+      {
+        "name": "dfsle__EnvelopeStatus__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dfsle__Recipient__c",
+    "children": [
+      {
+        "name": "dfsle__Envelope__c",
+        "children": [
+          {
+            "name": "dfsle__EnvelopeConfiguration__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dsfs__DocuSign_Recipient_Status__c",
+    "children": [
+      {
+        "name": "dsfs__DocuSign_Status__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "dsfs__DocuSign_Status__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "sbaa__ApprovalChain__c",
+    "children": [],
+    "circular": false
+  },
+  {
+    "name": "sbaa__ApprovalCondition__c",
+    "children": [
+      {
+        "name": "sbaa__ApprovalRule__c",
+        "children": [
+          {
+            "name": "sbaa__ApprovalChain__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__Approver__c",
+            "children": [
+              {
+                "name": "sbaa__Approver__c",
+                "circular": true
+              },
+              {
+                "name": "sbaa__Approver__c",
+                "circular": true
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "sbaa__ApprovalVariable__c",
+        "children": [
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "sbaa__ApprovalVariable__c",
+        "children": [
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__ApprovalVariable__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "sbaa__ApprovalRule__c",
+    "children": [
+      {
+        "name": "sbaa__ApprovalChain__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "sbaa__EmailTemplate__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "sbaa__Approver__c",
+        "children": [
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "sbaa__EmailTemplate__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "sbaa__EmailTemplate__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "sbaa__EmailTemplate__c",
+        "children": [],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "sbaa__ApprovalVariable__c",
+    "children": [
+      {
+        "name": "sbaa__ApprovalVariable__c",
+        "circular": true
+      },
+      {
+        "name": "sbaa__ApprovalVariable__c",
+        "circular": true
+      },
+      {
+        "name": "sbaa__ApprovalVariable__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "sbaa__Approval__c",
+    "children": [
+      {
+        "name": "sbaa__ApprovalChain__c",
+        "children": [],
+        "circular": false
+      },
+      {
+        "name": "sbaa__Approver__c",
+        "children": [
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "sbaa__Approver__c",
+        "children": [
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          },
+          {
+            "name": "sbaa__Approver__c",
+            "circular": true
+          }
+        ],
+        "circular": false
+      },
+      {
+        "name": "sbaa__ApprovalRule__c",
+        "children": [
+          {
+            "name": "sbaa__ApprovalChain__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__Approver__c",
+            "children": [
+              {
+                "name": "sbaa__Approver__c",
+                "circular": true
+              },
+              {
+                "name": "sbaa__Approver__c",
+                "circular": true
+              }
+            ],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          },
+          {
+            "name": "sbaa__EmailTemplate__c",
+            "children": [],
+            "circular": false
+          }
+        ],
+        "circular": false
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "sbaa__Approver__c",
+    "children": [
+      {
+        "name": "sbaa__Approver__c",
+        "circular": true
+      },
+      {
+        "name": "sbaa__Approver__c",
+        "circular": true
+      }
+    ],
+    "circular": false
+  },
+  {
+    "name": "sbaa__EmailTemplate__c",
+    "children": [],
+    "circular": false
+  }
+]

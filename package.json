@@ -1,0 +1,19 @@
+{
+  "name": "pml-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "csvtojson": "^2.0.10",
+    "inquirer": "^9.1.4",
+    "sfdx-cli": "^7.187.1",
+    "zx": "^7.1.1"
+  },
+  "type": "module"
+}

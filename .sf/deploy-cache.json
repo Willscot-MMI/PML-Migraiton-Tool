@@ -1,0 +1,17 @@
+{
+  "0Af7800000GfnAzCAJ": {
+    "metadata": [
+      "CustomObject"
+    ],
+    "dry-run": false,
+    "ignore-conflicts": false,
+    "ignore-errors": false,
+    "ignore-warnings": false,
+    "target-org": "alsanchez@mobilemini.com.build",
+    "test-level": "NoTestRun",
+    "wait": 33,
+    "api": "SOAP",
+    "timestamp": "2023-03-13T23:40:37.255Z",
+    "status": "Succeeded"
+  }
+}
